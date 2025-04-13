@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+openai
+python-dotenv
+langchain-community>=0.0.16
+langchain-openai>=0.0.6
